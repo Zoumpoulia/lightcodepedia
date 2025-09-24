@@ -1,13 +1,15 @@
 # Welcome to my LightNode
 
-_Please customize this page to introduce yourself to the Lightcode community._
-_Use Markdown syntax to format your text and add links, images, and other media._
+I’m _Zoumpoulia Papanikolaou_ , a _Accounting & Finance_ student with a passion for combining finance and technology. 
+Here, you’ll find my **journey**, **skills**, and **projects** that reflect how I connect numbers with _innovation_.
 
 # About Me 
-__Drop your photo here:__
-![Me]()
+![IMG_2786_heicx com_convert](https://github.com/user-attachments/assets/b803c4db-b553-4ee0-9129-aa6293fe6726)
 
-I'm [Your Name], a [Your Profession/Role] based in [Your Location]. I have a passion for [Your Interests or Hobbies].
+
+Hi! My name is **Zoumpoulia**, and I’m a final-year Accounting & Finance student at the **University of Macedonia**. 
+I’m passionate about combining **finance and technology** to create _smarter ways of working_, 
+particularly through digital reporting and low-code spreadsheet automation.
 
 # My journey
 My journey with Lightcode began when I applied for Lightcode Academy.

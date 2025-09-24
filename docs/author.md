@@ -4,7 +4,7 @@ I’m _Zoumpoulia Papanikolaou_ , a _Accounting & Finance_ student with a passio
 Here, you’ll find my **journey**, **skills**, and **projects** that reflect how I connect numbers with _innovation_.
 
 # About Me 
-![IMG_2786_heicx com_convert](https://github.com/user-attachments/assets/b803c4db-b553-4ee0-9129-aa6293fe6726)
+<img src="https://github.com/user-attachments/assets/b803c4db-b553-4ee0-9129-aa6293fe6726" alt="Zoumpoulia Papanikolaou profile photo" width="300"/>
 
 Hi! My name is **Zoumpoulia**, and I’m a final-year Accounting & Finance student at the **University of Macedonia**. 
 I’m passionate about combining **finance and technology** to create _smarter ways of working_, 

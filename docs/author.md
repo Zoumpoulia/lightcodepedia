@@ -6,7 +6,6 @@ Here, you’ll find my **journey**, **skills**, and **projects** that reflect ho
 # About Me 
 ![IMG_2786_heicx com_convert](https://github.com/user-attachments/assets/b803c4db-b553-4ee0-9129-aa6293fe6726)
 
-
 Hi! My name is **Zoumpoulia**, and I’m a final-year Accounting & Finance student at the **University of Macedonia**. 
 I’m passionate about combining **finance and technology** to create _smarter ways of working_, 
 particularly through digital reporting and low-code spreadsheet automation.
@@ -18,7 +17,7 @@ My journey with Lightcode began when I applied for Lightcode Academy.
 During the Academy I learned:
 - [x] Github — repository management
 - [x] GitHub Pages — website hosting & deployment
-- [ ] Markdown — text formatting, including **bold**, _italic_, and checkboxes
+- [x] Markdown — text formatting, including **bold**, _italic_, and checkboxes
 - [ ] StreamlitCloud deployment — app deployment
 - [ ] [Python](python.md) — basics of the most popular programming language
 - [ ] No-code/Low-code platforms — basics of visual programming
